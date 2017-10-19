@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="btnReserve">Zurückbehalten</string>
+    <string name="btnBuy">Käuflich erwerben</string>
+    <string name="txtDateVisit">Besuchsdatum</string>
+    <string name="txtMonument">Kathedrale</string>
+    <string name="txtTypeVisit">Art des Eintrags Wagen</string>
+    <string name="contentImgCity">Kathedrale von Malaga</string>
+    <string name="contentImgFavorites">Main Favorites</string>
+    <string name="btnOne">1</string>
+    <string name="btnTwo">2</string>
+    <string name="btnThree">3</string>
+    <string name="btnFour">4</string>
+    <string name="btnFive">5</string>
+    <string name="btnSix">6</string>
+    <string name="btnSeven">7</string>
+    <string name="btnEight">8</string>
+    <string name="btnNine">9</string>
+    <string name="btnZero">0</string>
+    <string name="btnComma">,</string>
+    <string name="edtValue">0.0</string>
+</resources>

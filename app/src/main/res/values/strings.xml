@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="txtMonument">Catedral</string>
+    <string name="txtDateVisit">Fecha visita</string>
+    <string name="txtTypeVisit">Tipo entrada</string>
+    <string name="btnReserve">Reservar</string>
+    <string name="btnBuy">Comprar</string>
+    <string name="contentImgCity">Catedral de Málaga</string>
+    <string name="contentImgFavorites">Favoritos</string>
+    <string name="btnOne">1</string>
+    <string name="btnTwo">2</string>
+    <string name="btnThree">3</string>
+    <string name="btnFour">4</string>
+    <string name="btnFive">5</string>
+    <string name="btnSix">6</string>
+    <string name="btnSeven">7</string>
+    <string name="btnEight">8</string>
+    <string name="btnNine">9</string>
+    <string name="btnZero">0</string>
+    <string name="btnComma">,</string>
+    <string name="edtValue">0.0</string>
+    <string name="txvTitle">Advanced Calculator</string>
+</resources>
